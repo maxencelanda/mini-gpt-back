@@ -13,3 +13,7 @@ Create a MongoDB database with a collection named "messages"
 ```HF_API_TOKEN``` API token from Hugging Face (https://huggingface.co/)
 
 ```DB_PATH``` MongoDB database path (mongodb://127.0.0.1/exampledb)
+
+# Launch
+
+```npm start```
